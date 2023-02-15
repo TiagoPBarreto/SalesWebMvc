@@ -159,3 +159,4 @@ C:\project_csharp\SalesWebmvc\SalesWebmvc\obj\Debug\netcoreapp3.1\Razor\Views\De
 C:\project_csharp\SalesWebmvc\SalesWebmvc\obj\Debug\netcoreapp3.1\Razor\Views\Departaments\Details.cshtml.g.cs
 C:\project_csharp\SalesWebmvc\SalesWebmvc\obj\Debug\netcoreapp3.1\Razor\Views\Departaments\Edit.cshtml.g.cs
 C:\project_csharp\SalesWebmvc\SalesWebmvc\obj\Debug\netcoreapp3.1\Razor\Views\Departaments\Index.cshtml.g.cs
+C:\project_csharp\SalesWebMVC\SalesWebmvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
